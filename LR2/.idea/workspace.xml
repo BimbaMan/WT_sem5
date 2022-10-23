@@ -4,25 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b80ad87d-92fc-40b7-bb4f-510d6b88a116" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Appliance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/DAOFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/IApplianceDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/IApplianceDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/impl/ApplianceDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/impl/ApplianceDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Fridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Oven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Oven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Tablet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Tablet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Teapot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Teapot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entity/VacuumCleaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/VacuumCleaner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/IApplianceService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/ServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/AppliancesFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/ApplianceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/criteria/SearchCriteria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/validation/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/database/DatabaseLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/DB.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/DB.xml" afterDir="false" />
+    <list default="true" id="b80ad87d-92fc-40b7-bb4f-510d6b88a116" name="Changes" comment="pupu">
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/PrintApplianceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/PrintApplianceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/AppliancesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/AppliancesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/criteria/SearchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/criteria/SearchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/database/DatabaseLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/database/DatabaseLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +98,7 @@
       <workItem from="1665053589302" duration="637000" />
       <workItem from="1665580097184" duration="583000" />
       <workItem from="1665732966196" duration="184000" />
-      <workItem from="1666439906540" duration="9049000" />
+      <workItem from="1666439906540" duration="10168000" />
     </task>
     <task id="LOCAL-00001" summary="commit?">
       <created>1663927563985</created>
@@ -142,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666443162567</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="wrote some code in DAO and entity">
+      <created>1666520340448</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666520340448</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pupu">
+      <created>1666520379918</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666520379918</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +175,8 @@
     <MESSAGE value="commit?" />
     <MESSAGE value=".xml changes" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="wrote some code in DAO and entity" />
+    <MESSAGE value="pupu" />
+    <option name="LAST_COMMIT_MESSAGE" value="pupu" />
   </component>
 </project>
