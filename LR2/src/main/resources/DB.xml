@@ -55,38 +55,38 @@
             <price>6</price>
         </Laptop>
             <Frige>
-                <powerConsumption>100</powerConsumption>
-                <filterType>a</filterType>
-                <bagType>a2</bagType>
-                <wandType>all-in-one</wandType>
-                <motorSpeedRegulation>3000</motorSpeedRegulation>
-                <cleaningWidth>20</cleaningWidth>
-                <price>7</price>
+                <manufacturer>ATLANT</manufacturer>
+                <construction>freezer</construction>
+                <height>145</height>
+                <width>54</width>
+                <color>red</color>
+                <energyConsumptionClass>A++</energyConsumptionClass>
+                <price>10</price>
             </Frige>
             <Frige>
-                <powerConsumption>110</powerConsumption>
-                <filterType>b</filterType>
-                <bagType>aa-89</bagType>
-                <wandType>all-in-one</wandType>
-                <motorSpeedRegulation>2900</motorSpeedRegulation>
-                <cleaningWidth>25</cleaningWidth>
-                <price>8</price>
+                <manufacturer>LG</manufacturer>
+                <construction>SideBySide</construction>
+                <height>195</height>
+                <width>79</width>
+                <color>white</color>
+                <energyConsumptionClass>C</energyConsumptionClass>
+                <price>12</price>
             </Frige>
             <Frige>
-                <powerConsumption>90</powerConsumption>
-                <filterType>c</filterType>
-                <bagType>xx00</bagType>
-                <wandType>all-in-one</wandType>
-                <motorSpeedRegulation>2950</motorSpeedRegulation>
-                <cleaningWidth>30</cleaningWidth>
-                <price>9</price>
+                <manufacturer>BEKO</manufacturer>
+                <construction>mini</construction>
+                <height>100</height>
+                <width>45</width>
+                <color>black</color>
+                <energyConsumptionClass>A+++</energyConsumptionClass>
+                <price>20</price>
             </Frige>
                 <Tablet>
                     <batteryCapacity>3.0</batteryCapacity>
-                    <displayInches>14</displayInches>
+                    <displayInches>11</displayInches>
                     <memoryRom>8000</memoryRom>
                     <flashMemoryCapacity>2</flashMemoryCapacity>
-                    <color>blue</color>
+                    <color>gray</color>
                     <price>10</price>
                 </Tablet>
                 <Tablet>
@@ -98,53 +98,53 @@
                     <price>11</price>
                 </Tablet>
                 <Tablet>
-                    <batteryCapacity>5.0</batteryCapacity>
-                    <displayInches>16</displayInches>
-                    <memoryRom>16000</memoryRom>
+                    <batteryCapacity>4.5</batteryCapacity>
+                    <displayInches>12</displayInches>
+                    <memoryRom>4000</memoryRom>
                     <flashMemoryCapacity>8</flashMemoryCapacity>
-                    <color>green</color>
-                    <price>12</price>
+                    <color>black</color>
+                    <price>20</price>
                 </Tablet>
                     <Teapot>
-                        <powerConsumption>15</powerConsumption>
-                        <numberOfSpeakers>2</numberOfSpeakers>
-                        <frequencyRange>2-4</frequencyRange>
-                        <cordLength>2</cordLength>
+                        <volumeInLiters>1</volumeInLiters>
+                        <material>glass</material>
+                        <teaСompartment>yes</teaСompartment>
+                        <maxTemperature>150</maxTemperature>
                         <price>13</price>
                     </Teapot>
                     <Teapot>
-                        <powerConsumption>20</powerConsumption>
-                        <numberOfSpeakers>3</numberOfSpeakers>
-                        <frequencyRange>3-4</frequencyRange>
-                        <cordLength>3</cordLength>
-                        <price>14</price>
+                        <volumeInLiters>0.5</volumeInLiters>
+                        <material>steel</material>
+                        <teaСompartment>no</teaСompartment>
+                        <maxTemperature>500</maxTemperature>
+                        <price>26</price>
                     </Teapot>
                     <Teapot>
-                        <powerConsumption>17</powerConsumption>
-                        <numberOfSpeakers>4</numberOfSpeakers>
-                        <frequencyRange>2-3.5</frequencyRange>
-                        <cordLength>4</cordLength>
-                        <price>15</price>
+                        <volumeInLiters>0.9</volumeInLiters>
+                        <material>ceramics</material>
+                        <teaСompartment>yes</teaСompartment>
+                        <maxTemperature>300</maxTemperature>
+                        <price>22</price>
                     </Teapot>
                         <VacuumCleaner>
-                            <powerConsumption>17</powerConsumption>
-                            <numberOfSpeakers>4</numberOfSpeakers>
-                            <frequencyRange>2-3.5</frequencyRange>
-                            <cordLength>4</cordLength>
-                            <price>15</price>
+                            <type>construction</type>
+                            <suctionPower>600</suctionPower>
+                            <pipeLength>2-3.5</pipeLength>
+                            <powerAdjustment>Case</powerAdjustment>
+                            <price>55</price>
                         </VacuumCleaner>
                         <VacuumCleaner>
-                            <powerConsumption>17</powerConsumption>
-                            <numberOfSpeakers>9</numberOfSpeakers>
-                            <frequencyRange>2-9</frequencyRange>
-                            <cordLength>3</cordLength>
-                            <price>15</price>
+                            <type>vertical</type>
+                            <suctionPower>200</suctionPower>
+                            <pipeLength>3-4.5</pipeLength>
+                            <powerAdjustment>Handle</powerAdjustment>
+                            <price>40</price>
                         </VacuumCleaner>
                         <VacuumCleaner>
-                            <powerConsumption>18</powerConsumption>
-                            <numberOfSpeakers>4</numberOfSpeakers>
-                            <frequencyRange>2-5</frequencyRange>
-                            <cordLength>2</cordLength>
-                            <price>99</price>
+                            <type>home</type>
+                            <suctionPower>300</suctionPower>
+                            <pipeLength>1.5-2.5</pipeLength>
+                            <powerAdjustment>Case</powerAdjustment>
+                            <price>20</price>
                         </VacuumCleaner>
 </Appliances>
