@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b80ad87d-92fc-40b7-bb4f-510d6b88a116" name="Changes" comment="pupu">
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/PrintApplianceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/PrintApplianceInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/AppliancesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/AppliancesFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/criteria/SearchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/criteria/SearchCriteria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/database/DatabaseLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/database/DatabaseLoader.java" afterDir="false" />
-    </list>
+    <list default="true" id="b80ad87d-92fc-40b7-bb4f-510d6b88a116" name="Changes" comment="Changes in Main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +93,7 @@
       <workItem from="1665053589302" duration="637000" />
       <workItem from="1665580097184" duration="583000" />
       <workItem from="1665732966196" duration="184000" />
-      <workItem from="1666439906540" duration="10168000" />
+      <workItem from="1666439906540" duration="13045000" />
     </task>
     <task id="LOCAL-00001" summary="commit?">
       <created>1663927563985</created>
@@ -142,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666520379918</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add TODO list">
+      <created>1666521687607</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666521687607</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changes in Main">
+      <created>1666522340559</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666522340559</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +186,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="wrote some code in DAO and entity" />
     <MESSAGE value="pupu" />
-    <option name="LAST_COMMIT_MESSAGE" value="pupu" />
+    <MESSAGE value="Add TODO list" />
+    <MESSAGE value="Changes in Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes in Main" />
   </component>
 </project>
