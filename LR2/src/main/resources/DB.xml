@@ -7,7 +7,7 @@
         <depth>60.0</depth>
         <height>45.5</height>
         <width>59.5</width>
-        <price>1</price>
+        <price>12</price>
     </Oven>
     <Oven>
         <powerConsumption>1500</powerConsumption>
@@ -54,7 +54,7 @@
             <displayInches>22</displayInches>
             <price>6</price>
         </Laptop>
-            <Frige>
+            <Fridge>
                 <manufacturer>ATLANT</manufacturer>
                 <construction>freezer</construction>
                 <height>145</height>
@@ -62,8 +62,8 @@
                 <color>red</color>
                 <energyConsumptionClass>A++</energyConsumptionClass>
                 <price>10</price>
-            </Frige>
-            <Frige>
+            </Fridge>
+            <Fridge>
                 <manufacturer>LG</manufacturer>
                 <construction>SideBySide</construction>
                 <height>195</height>
@@ -71,8 +71,8 @@
                 <color>white</color>
                 <energyConsumptionClass>C</energyConsumptionClass>
                 <price>12</price>
-            </Frige>
-            <Frige>
+            </Fridge>
+            <Fridge>
                 <manufacturer>BEKO</manufacturer>
                 <construction>mini</construction>
                 <height>100</height>
@@ -80,7 +80,7 @@
                 <color>black</color>
                 <energyConsumptionClass>A+++</energyConsumptionClass>
                 <price>20</price>
-            </Frige>
+            </Fridge>
                 <Tablet>
                     <batteryCapacity>3.0</batteryCapacity>
                     <displayInches>11</displayInches>
@@ -145,6 +145,6 @@
                             <suctionPower>300</suctionPower>
                             <pipeLength>1.5-2.5</pipeLength>
                             <powerAdjustment>Case</powerAdjustment>
-                            <price>20</price>
+                            <price>1</price>
                         </VacuumCleaner>
 </Appliances>

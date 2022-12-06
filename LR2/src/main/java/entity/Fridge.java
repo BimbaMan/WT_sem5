@@ -8,7 +8,7 @@ import lombok.*;
 @ToString
 @NoArgsConstructor
 @AllArgsConstructor
-public class Fridge extends Appliance {
+public class Fridge extends Appliance{
     private String manufacturer;
     private String construction;
     private int height;

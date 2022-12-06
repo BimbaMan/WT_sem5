@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b80ad87d-92fc-40b7-bb4f-510d6b88a116" name="Changes" comment="Changes in Main" />
+    <list default="true" id="b80ad87d-92fc-40b7-bb4f-510d6b88a116" name="Changes" comment="Changes in Main">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2022_15_51_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2022_15_51__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/impl/ApplianceDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/impl/ApplianceDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/Fridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/PrintApplianceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/PrintApplianceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/AppliancesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/AppliancesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/criteria/SearchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/criteria/SearchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/database/DatabaseLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/database/DatabaseLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/DB.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/DB.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DAO/ApplianceDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DAO/DAOFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DAO/impl/ApplianceDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DAO/impl/ApplianceDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DB.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DB.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Fridge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Fridge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Laptop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Oven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Oven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Tablet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Tablet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/Teapot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/Teapot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/VacuumCleaner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entity/VacuumCleaner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/criteria/Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/entity/criteria/SearchCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/PrintApplianceInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/PrintApplianceInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/ApplianceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/ServiceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/impl/ApplianceServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/validation/Validator.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,27 +63,34 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2FACvz7jcI8ZeYYN3KRdkyTi4fj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Иван/Desktop/Уник/ВТ Костя/Java-web-tech/lr_2&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Иван/Desktop/Уник/ВТ Костя/Java-web-tech/lr_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Solution">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="LR2" />
@@ -74,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -94,6 +133,11 @@
       <workItem from="1665580097184" duration="583000" />
       <workItem from="1665732966196" duration="184000" />
       <workItem from="1666439906540" duration="13045000" />
+      <workItem from="1669837766990" duration="248000" />
+      <workItem from="1669838029283" duration="733000" />
+      <workItem from="1669838786624" duration="414000" />
+      <workItem from="1669839229510" duration="47000" />
+      <workItem from="1670331558436" duration="4151000" />
     </task>
     <task id="LOCAL-00001" summary="commit?">
       <created>1663927563985</created>

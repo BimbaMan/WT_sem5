@@ -1,6 +1,9 @@
 package main;
 
 import DAO.IApplianceDAO;
+import DAO.impl.ApplianceDAOImpl;
+import service.database.DatabaseLoader;
+
 
 public class PrintApplianceInfo {
 
@@ -10,12 +13,12 @@ public class PrintApplianceInfo {
         this.applianceDAO = applianceDAO;
     }
     public static void printCheapestAppliance(){
-        //TODO add some paramets
-        // PrintApplianceInfo print = new PrintApplianceInfo();
-        //System.out.println();
+        PrintApplianceInfo printInfo = new PrintApplianceInfo(new ApplianceDAOImpl(DatabaseLoader.LoadFromDB()));
+        System.out.println("Cheapest appliance = " + printInfo.applianceDAO.findCheapestAppliance());
     }
 
     public static void printAllAppliancesByType(){
-        //TODO Find and print all Appliances by type
+        PrintApplianceInfo printInfo = new PrintApplianceInfo(new ApplianceDAOImpl(DatabaseLoader.LoadFromDB()));
+        printInfo.applianceDAO.findAppliancesByType("Teapot").forEach(appliance -> System.out.println("Appliance = " + appliance));
     }
 }

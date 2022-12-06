@@ -17,7 +17,7 @@ public class ApplianceDAOImpl implements IApplianceDAO {
     @Override
     public Appliance findCheapestAppliance() {
         var targetItem = new Object(){
-            double minPrice = 0;
+            double minPrice = Double.MAX_VALUE;
             Appliance cheapestAppliance = null;
         };
 
